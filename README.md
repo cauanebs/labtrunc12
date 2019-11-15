@@ -1,5 +1,4 @@
 # labtrunc12
----
 Stata software versions 13 or higher accept longer variable labels. If you try to save your database using version 12 (through the `saveold` command), it is mandatory that all variable labels have at most 80 characters.
 
 `labtrunc12` truncates all variable labels exceeding the maximum length and allows you to save your database using an older Stata version.
