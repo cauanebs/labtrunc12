@@ -1,6 +1,5 @@
-v 3
+v 1.0
 d labtrunc12.  Package to truncate variable labes that are too long to be saved in an older Stata version.
 d Developed by Cauane Blumenberg
-
 f labtrunc12.ado
 f labtrunc12.sthlp
